@@ -1,0 +1,12 @@
+/mnt/Datos/Repos/Foodie-Events/Foodie-Events.Library/bin/Debug/net8.0/Foodie-Events.Library.deps.json
+/mnt/Datos/Repos/Foodie-Events/Foodie-Events.Library/bin/Debug/net8.0/Foodie-Events.Library.dll
+/mnt/Datos/Repos/Foodie-Events/Foodie-Events.Library/bin/Debug/net8.0/Foodie-Events.Library.pdb
+/mnt/Datos/Repos/Foodie-Events/Foodie-Events.Library/obj/Debug/net8.0/Foodie-Events.Library.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/Datos/Repos/Foodie-Events/Foodie-Events.Library/obj/Debug/net8.0/Foodie-Events.Library.AssemblyInfoInputs.cache
+/mnt/Datos/Repos/Foodie-Events/Foodie-Events.Library/obj/Debug/net8.0/Foodie-Events.Library.AssemblyInfo.cs
+/mnt/Datos/Repos/Foodie-Events/Foodie-Events.Library/obj/Debug/net8.0/Foodie-Events.Library.csproj.CoreCompileInputs.cache
+/mnt/Datos/Repos/Foodie-Events/Foodie-Events.Library/obj/Debug/net8.0/Foodie-Events.Library.sourcelink.json
+/mnt/Datos/Repos/Foodie-Events/Foodie-Events.Library/obj/Debug/net8.0/Foodie-Events.Library.dll
+/mnt/Datos/Repos/Foodie-Events/Foodie-Events.Library/obj/Debug/net8.0/refint/Foodie-Events.Library.dll
+/mnt/Datos/Repos/Foodie-Events/Foodie-Events.Library/obj/Debug/net8.0/Foodie-Events.Library.pdb
+/mnt/Datos/Repos/Foodie-Events/Foodie-Events.Library/obj/Debug/net8.0/ref/Foodie-Events.Library.dll
