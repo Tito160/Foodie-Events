@@ -76,7 +76,10 @@
       },
       "Foodie-Events.Library/1.0.0": {
         "runtime": {
-          "Foodie-Events.Library.dll": {}
+          "Foodie-Events.Library.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

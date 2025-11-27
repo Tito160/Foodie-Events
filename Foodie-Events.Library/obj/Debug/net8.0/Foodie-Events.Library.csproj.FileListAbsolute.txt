@@ -10,3 +10,15 @@
 /mnt/Datos/Repos/Foodie-Events/Foodie-Events.Library/obj/Debug/net8.0/refint/Foodie-Events.Library.dll
 /mnt/Datos/Repos/Foodie-Events/Foodie-Events.Library/obj/Debug/net8.0/Foodie-Events.Library.pdb
 /mnt/Datos/Repos/Foodie-Events/Foodie-Events.Library/obj/Debug/net8.0/ref/Foodie-Events.Library.dll
+C:\Users\Lab15-PC01\Documents\GitHub\Foodie-Events\Foodie-Events.Library\bin\Debug\net8.0\Foodie-Events.Library.deps.json
+C:\Users\Lab15-PC01\Documents\GitHub\Foodie-Events\Foodie-Events.Library\bin\Debug\net8.0\Foodie-Events.Library.dll
+C:\Users\Lab15-PC01\Documents\GitHub\Foodie-Events\Foodie-Events.Library\bin\Debug\net8.0\Foodie-Events.Library.pdb
+C:\Users\Lab15-PC01\Documents\GitHub\Foodie-Events\Foodie-Events.Library\obj\Debug\net8.0\Foodie-Events.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab15-PC01\Documents\GitHub\Foodie-Events\Foodie-Events.Library\obj\Debug\net8.0\Foodie-Events.Library.AssemblyInfoInputs.cache
+C:\Users\Lab15-PC01\Documents\GitHub\Foodie-Events\Foodie-Events.Library\obj\Debug\net8.0\Foodie-Events.Library.AssemblyInfo.cs
+C:\Users\Lab15-PC01\Documents\GitHub\Foodie-Events\Foodie-Events.Library\obj\Debug\net8.0\Foodie-Events.Library.csproj.CoreCompileInputs.cache
+C:\Users\Lab15-PC01\Documents\GitHub\Foodie-Events\Foodie-Events.Library\obj\Debug\net8.0\Foodie-Events.Library.sourcelink.json
+C:\Users\Lab15-PC01\Documents\GitHub\Foodie-Events\Foodie-Events.Library\obj\Debug\net8.0\Foodie-Events.Library.dll
+C:\Users\Lab15-PC01\Documents\GitHub\Foodie-Events\Foodie-Events.Library\obj\Debug\net8.0\refint\Foodie-Events.Library.dll
+C:\Users\Lab15-PC01\Documents\GitHub\Foodie-Events\Foodie-Events.Library\obj\Debug\net8.0\Foodie-Events.Library.pdb
+C:\Users\Lab15-PC01\Documents\GitHub\Foodie-Events\Foodie-Events.Library\obj\Debug\net8.0\ref\Foodie-Events.Library.dll

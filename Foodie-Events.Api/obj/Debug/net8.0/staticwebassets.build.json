@@ -1,11 +1,1 @@
-{
-  "Version": 1,
-  "Hash": "pY8DcZ/DV8No7UBGDtnhp2gV1cg/ny4Wj9x2KHfgtwc=",
-  "Source": "Foodie-Events.Api",
-  "BasePath": "_content/Foodie-Events.Api",
-  "Mode": "Default",
-  "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
-}
+{"Version":1,"Hash":"CFhXe4KEbEfWBt+fAyGeERa55VVvB0TmbWUaFUmYBUU=","Source":"Foodie-Events.Api","BasePath":"_content/Foodie-Events.Api","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}

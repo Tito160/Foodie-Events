@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Foodie-Events.Library")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a7f367ac02cdafbcfb008204d313ed57b9addf7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd5d7e6d1d5d8660c12377d2fc195bdedd194e7d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Foodie-Events.Library")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Foodie-Events.Library")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
