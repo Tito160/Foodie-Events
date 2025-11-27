@@ -48,7 +48,7 @@ namespace Foodie_Events.Library.Domain
         public override string ToString()
         {
             return $"Reserva #{Id} - {Persona.NombreCompleto} | " +
-                   $"Evento: {Evento.Nombre} | Estado: {Estado} | Pagado: {(Pagado ? "Sí" : "No")}";
+                $"Evento: {Evento.Nombre} | Estado: {Estado} | Pagado: {(Pagado ? "Sí" : "No")}";
         }
     }
 }
